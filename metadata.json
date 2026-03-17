@@ -1,0 +1,5 @@
+{
+  "name": "Localizador de Postos",
+  "description": "Encontre postos de combustível próximos a você filtrando por cidade e usando sua localização em tempo real.",
+  "requestFramePermissions": ["geolocation"]
+}
